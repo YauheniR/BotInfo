@@ -6,3 +6,6 @@ A link in the navigator to the client's location.
 Sorts data by delivery time.
 Data in a convenient format is sent to the telegram bot.
 The application allows you to spend less time processing orders manually. And it allows you not to be distracted from your main work.
+
+
+The orders folder contains an example html file that the program parses. This file is automatically created by the program with the base of orders.
